@@ -7,10 +7,12 @@ This project leverages the Food-101 dataset to build a machine learning model ca
 
 
 Features
+
 Food Image Classification: Using a convolutional neural network (CNN), the model identifies the type of food from an uploaded image.
 Calorie and Nutritional Information: Based on the recognized food item, the system provides an estimate of the calories and other nutritional values.
 User-Friendly Interface: Easy-to-use interface for uploading food images and viewing results.
 
 
 Dataset
+
 The project utilizes the Food-101 dataset, which contains 101,000 images across 101 categories of food. Each category has 1,000 images, with 750 for training and 250 for testing. The dataset is pre-processed to fit the requirements of the model.
