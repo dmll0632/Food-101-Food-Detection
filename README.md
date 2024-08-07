@@ -2,6 +2,7 @@
 Food Classification and Nutrition Analysis with Food-101 Dataset
 
 Overview
+
 This project leverages the Food-101 dataset to build a machine learning model capable of recognizing food items from images. By identifying the food item, the system can then estimate the nutritional content and calorie information. This tool is designed to assist users in tracking their dietary intake by simply uploading a picture of their meal.
 
 
